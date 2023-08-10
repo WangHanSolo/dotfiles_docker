@@ -6,6 +6,9 @@ rm -rf $HOME/.oh-my-zsh
 rm $HOME/.zshrc
 rm $HOME/.p10k.zsh
 
+# Install zsh
+apt -y install zsh
+
 # Install curl
 apt -y install curl
 
